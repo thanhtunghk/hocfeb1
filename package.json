@@ -1,0 +1,23 @@
+{
+  "name": "tungnguyen",
+  "version": "1.0.0",
+  "description": "Nguyen Thanh Tung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtunghk/hocfeb1.git"
+  },
+  "keywords": [
+    "hoc",
+    "fe"
+  ],
+  "author": "Tung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhtunghk/hocfeb1/issues"
+  },
+  "homepage": "https://github.com/thanhtunghk/hocfeb1#readme"
+}
