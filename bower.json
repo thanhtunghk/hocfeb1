@@ -1,0 +1,25 @@
+{
+  "name": "tungnguyen",
+  "description": "Nguyen Thanh Tung",
+  "main": "index.js",
+  "authors": [
+    "Tung Nguyen"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "hoc",
+    "fe"
+  ],
+  "homepage": "https://github.com/thanhtunghk/hocfeb1",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
